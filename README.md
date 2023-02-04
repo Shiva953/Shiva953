@@ -41,7 +41,7 @@
 
 ![border](assets/borderseparator.gif)
 
-### <p style="text-align : center; font-weight:200px; font-size:22px;">**Skills&Endorsements**</p>
+### <p align="center"><p style="text-align : center; font-weight:200px; font-size:22px;">**Skills&Endorsements**</p></p>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,js,react,python,java,html,css,arduino,git,github,vscode,vim,linux,gcp,replit,figma,ps,ae,pr&perline=10" />
@@ -49,7 +49,7 @@
 </p>
 
 ![]()
-### <p style="text-align : center; font-weight:200px; font-size:22px;">**Currently Learning**</p>
+### <p align="center"><p style="text-align : center; font-weight:200px; font-size:22px;">**Currently Learning**</p></p>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=unity,neovim,nodejs,matlab,heroku,bootstrap,wordpress,markdown" />
@@ -57,7 +57,7 @@
 </p>
 
 ![]()
-### <p style="text-align : center; font-weight:200px; font-size:22px;">**Planning to Learn**</p>
+### <p align="center"><p style="text-align : center; font-weight:200px; font-size:22px;">**Planning to Learn**</p></p>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=svelte,vue,angular,kotlin,blender,eclipse,firebase,flutter,php,mysql,postgresql,django,flask,mongodb,blockchain,docker,electron,kubernetes,ipfs,graphql,swift,solidity,ruby,rust,redis,tailwind,jquery,nextjs,dart" />
@@ -70,7 +70,7 @@
 
 ![]()
 
-## <p style="text-align:center; font-size:32px; font-weight:400px">**Connect With Me**</p>
+## <p align="center"><p style="text-align:center; font-size:32px; font-weight:400px">**Connect With Me**</p></p>
 <!--
 **Shiva953/Shiva953** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
