@@ -6,13 +6,13 @@
 ![border-seperator](assets/borderseparator.gif)
 
 
-<p class="ab1">I'm Shiva,a tech and philosophy enthusiast! You can call me a hormonal cauldron :D</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=34F7EB&width=1000&lines=I'm+Shiva%2Ca+tech+and+philosophy+enthusiast!+You+can+call+me+a+hormonal+cauldron+%3AD)](https://git.io/typing-svg)
 
 <p align="center"><img src="assets/pxn.gif" style="display : block;margin : auto;" width="75%" height="400"></p>
 
 ![]()
 
-### <p style="font-size:10px;">I'm currently exploring the world of web development,open source and blockchain technology.I like solving problems that interest me and let me dive deep into the essence of it. I am naive to the world of computer science,though optimistic about its possibilities.</p>
+### <p style="font-size:8px;">I'm currently exploring the world of web development,open source and blockchain technology.I like solving problems that interest me and let me dive deep into the essence of it. I am naive to the world of computer science,though optimistic about its possibilities.</p>
 
 ![border-seperator](assets/borderseparator.gif)
 
