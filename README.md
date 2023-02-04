@@ -3,9 +3,11 @@
 ### **Welcome to My Page!** <img src="assets/flame.gif" style="position: relative;top:2.4px;" width="12" height="22">
 ![border-seperator](assets/borderseparator.gif)
 
+<head>
 <link rel="preconnect" href="https://fonts.googleapis.com">
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-        <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap" rel="stylesheet">
+</head>
 <p style="@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap'); font-family : 'Roboto Mono',sans-serif; font-weight:600px;font-size : 20px;">I'm Shiva,a tech and philosophy enthusiast! You can call me a hormonal cauldron :D</p>
 
 <p align="center"><img src="assets/pxn.gif" style="display : block;margin : auto;" width="75%" height="400"></p>
