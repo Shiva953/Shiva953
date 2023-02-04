@@ -6,7 +6,7 @@
 ![border-seperator](assets/borderseparator.gif)
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=34F7EB&width=1000&lines=I'm+Shiva%2Ca+tech+and+philosophy+enthusiast!+You+can+call+me+a+hormonal+cauldron+%3AD)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=34F7EB&width=864&height=80&lines=A+tech+and+philosophy+enthusiast!+You+can+call+me+a+hormonal+cauldron+%3AD)](https://git.io/typing-svg)
 
 <p align="center"><img src="assets/pxn.gif" style="display : block;margin : auto;" width="80%" height="400"></p>
 
