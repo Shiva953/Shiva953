@@ -10,7 +10,6 @@
 
 <p align="center"><img src="assets/pxn.gif" style="display : block;margin : auto;" width="75%" height="400"></p>
 
-![]()
 
 ### <p style="font-size:8px;">I'm currently exploring the world of web development,open source and blockchain technology.I like solving problems that interest me and let me dive deep into the essence of it. I am naive to the world of computer science,though optimistic about its possibilities.</p>
 
