@@ -16,8 +16,6 @@
 ![border-seperator](assets/borderseparator.gif)
 
 ### **✨ Hobbies**
-<div style="margin-top : -5px;"></div>
-
 #### Listening to Podcasts,Music and writing Reviews
 
 <div style="height: 20px;"></div>
