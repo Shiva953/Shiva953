@@ -12,7 +12,7 @@
 
 ![]()
 
-### <p style="font-size:17px;">I'm currently exploring the world of web development,open source and blockchain technology.I like solving problems that interest me and let me dive deep into the essence of it. I am naive to the world of computer science,though optimistic about its possibilities.</p>
+### <p style="font-size:10px;">I'm currently exploring the world of web development,open source and blockchain technology.I like solving problems that interest me and let me dive deep into the essence of it. I am naive to the world of computer science,though optimistic about its possibilities.</p>
 
 ![border-seperator](assets/borderseparator.gif)
 
