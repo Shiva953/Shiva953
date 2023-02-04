@@ -16,7 +16,7 @@
 ![border-seperator](assets/borderseparator.gif)
 
 ### **✨ Hobbies**
-#### Listening to Podcasts,Music and writing Reviews
+   Listening to Podcasts,Music and writing Reviews
 
 <div style="height: 20px;"></div>
 
