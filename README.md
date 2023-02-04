@@ -8,7 +8,7 @@
         <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap" rel="stylesheet">
 <p style="@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap'); font-family : 'Roboto Mono',sans-serif; font-weight:600px;font-size : 20px;">I'm Shiva,a tech and philosophy enthusiast! You can call me a hormonal cauldron :D</p>
 
-<img src="assets/pxn.gif" style="display : block;margin : auto;" width="70%" height="400">
+<img src="assets/pxn.gif" style="display : block;margin : auto;" width="75%" height="400">
 
 ![]()
 
