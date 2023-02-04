@@ -22,11 +22,14 @@
 
 ![border-seperator](assets/borderseparator.gif)
 
+## <div align="center"><p style="text-align:center; font-size:40px; font-weight:400px">**About Me**</p></div>
+---
+
 ### **✨ Hobbies**
    Listening to Podcasts,Music and writing Reviews
 
 ### **💖 Interests**
-Computer Science,Philosophy,AI/ML,Blockhain,Math,Psychology
+Computer Science,Philosophy,AI/ML,Blockhain,Math,Open Source
 
 
 ### **📟 Projects**
@@ -48,9 +51,13 @@ Computer Science,Philosophy,AI/ML,Blockhain,Math,Psychology
 * Cloud Computing and Networking
 * Web 3.0
 
+![bd](assets/borderseparator.gif)
+
+## <div align="center"><p style="text-align:center; font-size:40px; font-weight:400px;">**Technologies**</p></div>
+
 ---
 
-### <div align="center"><p align="center"><p style="text-align : center; font-weight:200px; font-size:22px;">**Skills&Endorsements**</p></p></div>
+### <div align="center"><p align="center"><p style="text-align : center; font-weight:200px; font-size:24px;">**Skills&Endorsements**</p></p></div>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,js,react,python,java,html,css,arduino,git,github,vscode,vim,linux,gcp,replit,figma,ps,ae,pr&perline=10" />
@@ -79,21 +86,21 @@ Computer Science,Philosophy,AI/ML,Blockhain,Math,Psychology
 
 ![]()
 
-## <div align="center"><p style="text-align:center; font-size:32px; font-weight:400px">**Connect With Me**</p></div>
+## <div align="center"><p style="text-align:center; font-size:40px; font-weight:400px">**Github Stats**</p></div>
+---
 
+![]()
 
+<!-- [![Neutron's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shiva953&theme=aura)]()
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Shiva953&theme=dark-smoky)](https://git.io/streak-stats) -->
+<p style="display:flex; align=center; justify-content:center; ">
+<img src="https://github-readme-stats.vercel.app/api?username=Shiva953&theme=aura" style="margin-right:4px;">
+<img src="https://streak-stats.demolab.com/?user=Shiva953&theme=dark-smoky">
+</p>
 
-<!--
-**Shiva953/Shiva953** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+[![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Shiva953&theme=react-dark)](https://github.com/Shiva953/github-readme-activity-graph)
+<!-- - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
+
