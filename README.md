@@ -2,6 +2,13 @@
 
 # Hey, I'm **[Shiva](https://shiva953.github.io/)** 👋
 
+
+[![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Galactron71)
+[![My Skills](https://skillicons.dev/icons?i=discord)](https://discord.com/users/791137267535970324)
+[![My Skills](https://skillicons.dev/icons?i=wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/shiva-seth-958114233/)
+
+
 ### **Welcome to My Page!** <img src="assets/flame.gif" style="position: relative;top:2.4px;" width="12" height="22">
 ![border-seperator](assets/borderseparator.gif)
 
@@ -73,6 +80,9 @@ Computer Science,Philosophy,AI/ML,Blockhain,Math,Psychology
 ![]()
 
 ## <div align="center"><p style="text-align:center; font-size:32px; font-weight:400px">**Connect With Me**</p></div>
+
+
+
 <!--
 **Shiva953/Shiva953** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
