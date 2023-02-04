@@ -1,10 +1,12 @@
+<link rel="stylesheet" type="text/css" href="style.css">
+
 # **Hey** 👋
 
 ### **Welcome to My Page!** <img src="assets/flame.gif" style="position: relative;top:2.4px;" width="12" height="22">
 ![border-seperator](assets/borderseparator.gif)
 
 
-<p style="@font-face{font-family : 'Roboto Mono';src:url('fonts/RobotoMono-VariableFont_wght.ttf') format('truetype');} font-family : 'Roboto Mono'; font-weight:500;font-size : 22px;">I'm Shiva,a tech and philosophy enthusiast! You can call me a hormonal cauldron :D</p>
+<p class="ab1">I'm Shiva,a tech and philosophy enthusiast! You can call me a hormonal cauldron :D</p>
 
 <p align="center"><img src="assets/pxn.gif" style="display : block;margin : auto;" width="75%" height="400"></p>
 
