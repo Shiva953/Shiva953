@@ -23,7 +23,7 @@
 ![border-seperator](assets/borderseparator.gif)
 
 ## <div align="center"><p style="text-align:center; font-size:40px; font-weight:400px">**About Me**</p></div>
----
+
 
 ### **✨ Hobbies**
    Listening to Podcasts,Music and writing Reviews
@@ -55,7 +55,6 @@ Computer Science,Philosophy,AI/ML,Blockhain,Math,Open Source
 
 ## <div align="center"><p style="text-align:center; font-size:40px; font-weight:400px;">**Technologies**</p></div>
 
----
 
 ### <div align="center"><p align="center"><p style="text-align : center; font-weight:200px; font-size:24px;">**Skills&Endorsements**</p></p></div>
 <p align="center">
@@ -87,7 +86,7 @@ Computer Science,Philosophy,AI/ML,Blockhain,Math,Open Source
 ![]()
 
 ## <div align="center"><p style="text-align:center; font-size:40px; font-weight:400px">**Github Stats**</p></div>
----
+
 
 ![]()
 
