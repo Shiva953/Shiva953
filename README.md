@@ -17,27 +17,27 @@
 ![border-seperator](assets/borderseparator.gif)
 
 ### **✨ Hobbies**
-### Listening to Podcasts,Music and writing Reviews
+##### Listening to Podcasts,Music and writing Reviews
 ![]()
 ### **💖 Interests**
-### Computer Science,Philosophy,AI/ML,Blockhain,Math,Psychology
+##### Computer Science,Philosophy,AI/ML,Blockhain,Math,Psychology
 ![]()
 ### **📟 Projects**
-* ### Snake Game
-* ### Portfolio Website
-* ### Meme Generator
+* ##### Snake Game
+* ##### Portfolio Website
+* ##### Meme Generator
 ![]()
 ### **👨‍💻️ Currently learning**
-### Frontend Web Development and Game Development
+##### Frontend Web Development and Game Development
 ![]()
 ### **💻 Will Learn**
-* ### Backend and Full Stack Web Development
-* ### Data Structures and Algorithms
-* ### App Development
-* ### Blockchain Development
-* ### ML and Deep Learning
-* ### Cloud Computing and Networking
-* ### Web 3.0
+* ##### Backend and Full Stack Web Development
+* ##### Data Structures and Algorithms
+* ##### App Development
+* ##### Blockchain Development
+* ##### ML and Deep Learning
+* ##### Cloud Computing and Networking
+* ##### Web 3.0
 
 ![border](assets/borderseparator.gif)
 
