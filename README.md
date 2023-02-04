@@ -4,7 +4,7 @@
 ![border-seperator](assets/borderseparator.gif)
 
 
-<p style="@font-face{font family : 'Roboto Mono',src:url('fonts/RobotoMono-VariableFont_wght.ttf')}; font-family : 'Roboto Mono'; font-weight:200px;font-size : 22px;">I'm Shiva,a tech and philosophy enthusiast! You can call me a hormonal cauldron :D</p>
+<p style="@font-face{font-family : 'Roboto Mono',src:url('fonts/RobotoMono-VariableFont_wght.ttf')}; font-family : 'Roboto Mono'; font-weight:500;font-size : 22px;">I'm Shiva,a tech and philosophy enthusiast! You can call me a hormonal cauldron :D</p>
 
 <p align="center"><img src="assets/pxn.gif" style="display : block;margin : auto;" width="75%" height="400"></p>
 
