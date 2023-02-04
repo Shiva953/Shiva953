@@ -2,12 +2,12 @@
 
 ### **Welcome to My Page!** <img src="assets/flame.gif" style="position: relative;top:2.4px;" width="12" height="22">
 ![border-seperator](assets/borderseparator.gif)
-```
+
 <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
         <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap" rel="stylesheet">
 <p style="@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap'); font-family : 'Roboto Mono',sans-serif; font-weight:600px;font-size : 20px;">I'm Shiva,a tech and philosophy enthusiast! You can call me a hormonal cauldron :D</p>
-```
+
 <img src="assets/pxn.gif" style="display : block;margin : auto;" width="70%" height="400">
 
 ![]()
