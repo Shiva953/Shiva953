@@ -8,7 +8,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=34F7EB&width=864&height=80&lines=A+tech+and+philosophy+enthusiast!+You+can+call+me+a+hormonal+cauldron+%3AD)](https://git.io/typing-svg)
 
-<p align="center"><img src="assets/pxn.gif" style="display : block;margin : auto;" width="80%" height="400"></p>
+<p align="center"><img src="assets/pxn.gif" style="display : block;margin : auto;" width="500" height="280"></p>
 
 
 ### <p style="font-size:8px;">I'm currently exploring the world of web development,open source and blockchain technology.I like solving problems that interest me and let me dive deep into the essence of it. I am naive to the world of computer science,though optimistic about its possibilities.</p>
