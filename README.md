@@ -70,7 +70,7 @@
 
 ![]()
 
-## <p align="center"><p style="text-align:center; font-size:32px; font-weight:400px">**Connect With Me**</p></p>
+## <div align="center"><p style="text-align:center; font-size:32px; font-weight:400px">**Connect With Me**</p></div>
 <!--
 **Shiva953/Shiva953** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
