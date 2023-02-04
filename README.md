@@ -41,7 +41,7 @@
 
 ![border](assets/borderseparator.gif)
 
-### <p align="center"><p style="text-align : center; font-weight:200px; font-size:22px;">**Skills&Endorsements**</p></p>
+### <div align="center"><p align="center"><p style="text-align : center; font-weight:200px; font-size:22px;">**Skills&Endorsements**</p></p></div>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,js,react,python,java,html,css,arduino,git,github,vscode,vim,linux,gcp,replit,figma,ps,ae,pr&perline=10" />
@@ -49,7 +49,7 @@
 </p>
 
 ![]()
-### <p align="center"><p style="text-align : center; font-weight:200px; font-size:22px;">**Currently Learning**</p></p>
+### <div align="center"><p align="center"><p style="text-align : center; font-weight:200px; font-size:22px;">**Currently Learning**</p></p></div>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=unity,neovim,nodejs,matlab,heroku,bootstrap,wordpress,markdown" />
@@ -57,7 +57,7 @@
 </p>
 
 ![]()
-### <p align="center"><p style="text-align : center; font-weight:200px; font-size:22px;">**Planning to Learn**</p></p>
+### <div align="center"><p align="center"><p style="text-align : center; font-weight:200px; font-size:22px;">**Planning to Learn**</p></p></div>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=svelte,vue,angular,kotlin,blender,eclipse,firebase,flutter,php,mysql,postgresql,django,flask,mongodb,blockchain,docker,electron,kubernetes,ipfs,graphql,swift,solidity,ruby,rust,redis,tailwind,jquery,nextjs,dart" />
