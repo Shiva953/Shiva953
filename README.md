@@ -1,6 +1,6 @@
 <link rel="stylesheet" type="text/css" href="style.css">
 
-# **Hey, I'm [Shiva](https://shiva953.github.io/)** 👋
+# Hey, I'm **[Shiva](https://shiva953.github.io/)** 👋
 
 ### **Welcome to My Page!** <img src="assets/flame.gif" style="position: relative;top:2.4px;" width="12" height="22">
 ![border-seperator](assets/borderseparator.gif)
