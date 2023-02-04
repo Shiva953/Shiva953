@@ -16,20 +16,28 @@
 ![border-seperator](assets/borderseparator.gif)
 
 ### **✨ Hobbies**
+<div style="height: 5px;"></div>
+
 #### Listening to Podcasts,Music and writing Reviews
 <div style="height: 20px;"></div>
 
 ### **💖 Interests**
+<div style="height: 5px;"></div>
+
 #### Computer Science,Philosophy,AI/ML,Blockhain,Math,Psychology
 <div style="height: 20px;"></div>
 
 ### **📟 Projects**
+<div style="height: 5px;"></div>
+
 * #### Snake Game
 * #### Portfolio Website
 * #### Meme Generator
 <div style="height: 20px;"></div>
 
 ### **👨‍💻️ Currently learning**
+<div style="height: 5px;"></div>
+
 #### Frontend Web Development and Game Development
 <div style="height: 20px;"></div>
 
