@@ -3,10 +3,10 @@
 # Hey, I'm **[Shiva](https://shiva953.github.io/)** 👋
 
 
-[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Galactron71)
-[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/791137267535970324)
-[![Blog](assets/hash.svg)](https://neutronsblog.hashnode.dev)
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/shiva-seth-958114233/)
+[![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Galactron71)
+[![My Skills](https://skillicons.dev/icons?i=discord)](https://discord.com/users/791137267535970324)
+[![My Skills](https://skillicons.dev/icons?i=wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/shiva-seth-958114233/)
 
 
 ### **Welcome to My Page!** <img src="assets/flame.gif" style="position: relative;top:2.4px;" width="12" height="22">
@@ -23,7 +23,7 @@
 ![border-seperator](assets/borderseparator.gif)
 
 ## <div align="center"><p style="text-align:center; font-size:40px; font-weight:400px">**About Me**</p></div>
----
+
 
 ### **✨ Hobbies**
    Listening to Podcasts,Music and writing Reviews
@@ -55,7 +55,6 @@ Computer Science,Philosophy,AI/ML,Blockhain,Math,Open Source
 
 ## <div align="center"><p style="text-align:center; font-size:40px; font-weight:400px;">**Technologies**</p></div>
 
----
 
 ### <div align="center"><p align="center"><p style="text-align : center; font-weight:200px; font-size:24px;">**Skills&Endorsements**</p></p></div>
 <p align="center">
@@ -87,7 +86,7 @@ Computer Science,Philosophy,AI/ML,Blockhain,Math,Open Source
 ![]()
 
 ## <div align="center"><p style="text-align:center; font-size:40px; font-weight:400px">**Github Stats**</p></div>
----
+
 
 ![]()
 
