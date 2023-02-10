@@ -15,7 +15,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=34F7EB&width=864&height=80&lines=A+tech+and+philosophy+enthusiast!+You+can+call+me+a+hormonal+cauldron+%3AD)](https://git.io/typing-svg)
 
-<p align="center"><img src="https://cdn.dribbble.com/users/1458674/screenshots/4598870/media/d40cf934aadf2c3aacaad8f96ac103d6.gif" style="display : block;margin : auto;" width="400" height="300"></p>
+<p align="center"><img src="https://giphy.com/gifs/HeVeel0l696qBIDnG9" style="display : block;margin : auto;" width="400" height="300"></p>
 
 
 ### <p style="font-size:8px;">I'm currently exploring the world of web development,open source and blockchain technology.I like solving problems that interest me and let me dive deep into the essence of it. I am naive to the world of computer science,though optimistic about its possibilities.</p>
