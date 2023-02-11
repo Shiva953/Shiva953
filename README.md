@@ -1,6 +1,6 @@
 <link rel="stylesheet" type="text/css" href="style.css">
 
-# Hey, I'm **[Shiva](https://shiva953.github.io/)** 👋
+# Hey, I'm **Shiva** 👋
 
 
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Galactron71)
