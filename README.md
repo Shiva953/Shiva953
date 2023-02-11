@@ -4,7 +4,6 @@
 
 
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Galactron71)
-[![Blog](assets/hash.svg)](https://neutronsblog.hashnode.dev)
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/791137267535970324)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/shiva-seth-958114233/)
 
