@@ -11,7 +11,7 @@
 ### **Welcome to My Page!** <img src="assets/flame.gif" style="position: relative;top:2.4px;" width="12" height="22">
 ![border-seperator](assets/borderseparator.gif)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2000&pause=1000&center=true&vCenter=true&width=700&height=100&lines=A+Tech+and+Philosophy+Enthusiast!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2000&pause=1000&color=2AE8F7&center=true&vCenter=true&width=700&height=100&lines=A+Tech+and+Philosophy+Enthusiast!)](https://git.io/typing-svg)
 
 <p align="center"><img src="assets/xyz.gif" style="display : block;margin : auto;" width="400" height="300"></p>
 
