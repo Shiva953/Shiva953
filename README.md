@@ -12,7 +12,7 @@
 ![border-seperator](assets/borderseparator.gif)
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=34F7EB&width=964&height=120&lines=A+tech+and+philosophy+enthusiast!+%3AD)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=34F7EB&width=900&height=100&lines=A+tech+and+philosophy+enthusiast!](https://git.io/typing-svg)
 
 <p align="center"><img src="assets/xyz.gif" style="display : block;margin : auto;" width="400" height="300"></p>
 
