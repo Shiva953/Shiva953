@@ -84,12 +84,8 @@ Computer Science,Philosophy,AI/ML,Blockhain,Math,Open Source
 
 ## <div align="center"><p style="text-align:center; font-size:40px; font-weight:400px">**Github Stats**</p></div>
 
-
 ![]()
 
-#### :books: Recent Blog Posts
-  <!-- BLOGPOSTS:START -->
-  <!-- BLOGPOSTS:END -->
 
 <!-- [![Neutron's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shiva953&theme=aura)]()
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Shiva953&theme=dark-smoky)](https://git.io/streak-stats) -->
@@ -104,3 +100,7 @@ Computer Science,Philosophy,AI/ML,Blockhain,Math,Open Source
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
+
+#### :books: Recent Blog Posts
+  <!-- BLOGPOSTS:START -->
+  <!-- BLOGPOSTS:END -->
