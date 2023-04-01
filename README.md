@@ -87,6 +87,10 @@ Computer Science,Philosophy,AI/ML,Blockhain,Math,Open Source
 
 ![]()
 
+#### :books: Recent Blog Posts
+  <!-- BLOGPOSTS:START -->
+  <!-- BLOGPOSTS:END -->
+
 <!-- [![Neutron's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shiva953&theme=aura)]()
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Shiva953&theme=dark-smoky)](https://git.io/streak-stats) -->
 <p style="display:flex; align=center; justify-content:center; ">
