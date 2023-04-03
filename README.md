@@ -13,8 +13,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2000&pause=1000&color=2AE8F7&center=true&vCenter=true&width=900&height=80&lines=A+Tech+and+Philosophy+Enthusiast!)](https://git.io/typing-svg)
 
-<p align="center"><img src="assets/xyz.gif" style="display : block;margin : auto;" width="400" height="300"></p>
-
 ### <p style="font-size:8px;">I'm currently exploring the world of web development,open source and blockchain technology.I like solving problems that interest me and let me dive deep into the essence of it. I am naive to the world of computer science,though optimistic about its possibilities.</p>
 
 ![border-seperator](assets/borderseparator.gif)
