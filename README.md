@@ -13,7 +13,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2000&pause=1000&color=2AE8F7&center=true&vCenter=true&width=900&height=80&lines=A+Tech+and+Philosophy+Enthusiast!)](https://git.io/typing-svg)
 
-### <p style="font-size:8px;">I'm currently exploring the world of web development,open source and blockchain technology.I like solving problems that interest me and let me dive deep into the essence of it. I am naive to the world of computer science,though optimistic about its possibilities.</p>
+### <p style="font-size:7px;">I'm currently exploring the world of web development,open source and blockchain technology.I like solving problems that interest me and let me dive deep into the essence of it. I am naive to the world of computer science,though optimistic about its possibilities.</p>
 
 ![border-seperator](assets/borderseparator.gif)
 
@@ -54,7 +54,7 @@ Computer Science,Philosophy,AI/ML,Blockhain,Math,Open Source
 ### <div align="center"><p align="center"><p style="text-align : center; font-weight:200px; font-size:24px;">**Skills&Endorsements**</p></p></div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,js,react,python,java,html,css,arduino,git,github,vscode,vim,linux,gcp,replit,figma,ps,ae,pr&perline=10" />
+    <img src="https://skillicons.dev/icons?i=c,js,react,python,java,html,css,arduino,git,github,vscode,neovim,linux,gcp,tailwind,figma,ps,ae&perline=10" />
   </a>
 </p>
 
@@ -62,7 +62,7 @@ Computer Science,Philosophy,AI/ML,Blockhain,Math,Open Source
 ### <div align="center"><p align="center"><p style="text-align : center; font-weight:200px; font-size:22px;">**Currently Learning**</p></p></div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=unity,neovim,nodejs,matlab,heroku,bootstrap,wordpress,markdown" />
+    <img src="https://skillicons.dev/icons?i=unity,nodejs,matlab,docker,bootstrap,wordpress,markdown" />
   </a>
 </p>
 
@@ -70,7 +70,7 @@ Computer Science,Philosophy,AI/ML,Blockhain,Math,Open Source
 ### <div align="center"><p align="center"><p style="text-align : center; font-weight:200px; font-size:22px;">**Planning to Learn**</p></p></div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=svelte,vue,angular,kotlin,blender,eclipse,firebase,flutter,php,mysql,postgresql,django,flask,mongodb,blockchain,docker,electron,kubernetes,ipfs,graphql,swift,solidity,ruby,rust,redis,tailwind,jquery,nextjs,dart" />
+    <img src="https://skillicons.dev/icons?i=svelte,vue,blender,firebase,flutter,php,mysql,django,flask,mongodb,blockchain,electron,kubernetes,ipfs,graphql,swift,solidity,ruby,rust,jquery,nextjs,dart" />
   </a>
 </p>
 
