@@ -70,7 +70,7 @@ Computer Science,Philosophy,AI/ML,Blockhain,Math,Open Source
 ### <div align="center"><p align="center"><p style="text-align : center; font-weight:200px; font-size:22px;">**Planning to Learn**</p></p></div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=svelte,vue,blender,firebase,flutter,php,mysql,django,flask,mongodb,blockchain,electron,kubernetes,ipfs,graphql,swift,solidity,ruby,rust,jquery,nextjs,dart&perline=10" />
+    <img src="https://skillicons.dev/icons?i=svelte,vue,blender,firebase,flutter,php,mysql,django,flask,mongodb,electron,kubernetes,graphql,swift,solidity,ruby,rust,nextjs,dart&perline=10" />
   </a>
 </p>
 
