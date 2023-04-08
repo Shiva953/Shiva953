@@ -54,7 +54,7 @@ Computer Science,Philosophy,AI/ML,Blockhain,Math,Open Source
 ### <div align="center"><p align="center"><p style="text-align : center; font-weight:200px; font-size:24px;">**Skills&Endorsements**</p></p></div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,js,react,python,java,html,css,arduino,git,github,vscode,neovim,linux,gcp,tailwind,figma,ps,ae&perline=8" />
+    <img src="https://skillicons.dev/icons?i=c,js,react,python,java,css,arduino,git,github,vscode,neovim,linux,gcp,tailwind,ps,ae&perline=8" />
   </a>
 </p>
 
