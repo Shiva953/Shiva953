@@ -3,7 +3,7 @@
 # Hey, I'm **Shiva** 👋
 
 
-[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Galactron71)
+[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Neutron975)
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/791137267535970324)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/shiva-seth-958114233/)
 
