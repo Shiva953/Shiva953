@@ -8,7 +8,7 @@
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/shiva-seth-958114233/)
 
 <a href="https://cloud.appwrite.io/card/6450a8b2037af3f1069a">
-	<img width="350" src="https://cloud.appwrite.io/v1/cards/cloud?userId=6450a8b2037af3f1069a&new" alt="Appwrite Cloud Card" align="right" />
+	<img width="350" src="https://cloud.appwrite.io/v1/cards/cloud?userId=6450a8b2037af3f1069a&new" alt="Appwrite Cloud Card" align="center" />
 </a>
 
 ### **Welcome to My Page!** <img src="assets/flame.gif" style="position: relative;top:2.4px;" width="12" height="22">
