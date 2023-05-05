@@ -35,20 +35,6 @@ Computer Science,Philosophy,AI/ML,Blockhain,Math,Open Source
 * Portfolio Website
 * Meme Generator
 
-
-### **👨‍💻️ Currently learning**
-  Frontend Web Development and Game Development
-
-
-### **💻 Will Learn**
-* Backend and Full Stack Web Development
-* Data Structures and Algorithms
-* App Development
-* Blockchain Development
-* ML and Deep Learning
-* Cloud Computing and Networking
-* Web 3.0
-
 ![bd](assets/borderseparator.gif)
 
 ## <div align="center"><p style="text-align:center; font-size:40px; font-weight:400px;">**Technologies**</p></div>
