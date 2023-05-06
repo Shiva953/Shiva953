@@ -34,6 +34,7 @@ Computer Science,Philosophy,AI/ML,Blockhain,Math,Open Source
 * Snake Game
 * Portfolio Website
 * Meme Generator
+* Discord Bot
 
 ![bd](assets/borderseparator.gif)
 
