@@ -27,7 +27,7 @@
    Listening to Podcasts,Music and writing Reviews
 
 ### **💖 Interests**
-Computer Science,Philosophy,AI/ML,Blockhain,Math,Open Source
+Computer Science,Philosophy,AI/ML,Blockchain,Math,Open Source
 
 
 ### **📟 Projects**
