@@ -31,10 +31,9 @@ Computer Science,Philosophy,AI/ML,Blockchain,Math,Open Source
 
 
 ### **📟 Projects**
-* Snake Game
-* Portfolio Website
-* Meme Generator
 * Discord Bot
+* ChatApp
+* Portfolio Website
 
 ![bd](assets/borderseparator.gif)
 
