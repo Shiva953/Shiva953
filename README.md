@@ -89,5 +89,5 @@ Computer Science,Philosophy,AI/ML,Blockchain,Math,Open Source
 
 
 #### :books: Recent Blog Posts
-  <!-- HASHNODE_BLOG:START -->
-  <!-- HASHNODE_BLOG:END -->
+<!-- BLOGPOSTS:START -->
+<!-- BLOGPOSTS:END -->
