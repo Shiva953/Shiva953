@@ -92,6 +92,4 @@ Computer Science,Philosophy,AI/ML,Blockchain,Math,Open Source
 <!-- BLOGPOSTS:START -->
  - 🌮 [AWS : Welcome](https://neutronsblog.hashnode.dev/aws-welcome)
  - 🌮 [System Design : A Naive Overview](https://neutronsblog.hashnode.dev/system-design-a-naive-overview)
- - 🚀 [The Essence of Cryptography](https://neutronsblog.hashnode.dev/the-essence-of-cryptography)
- - 💫 [Demystifying Computer Networking](https://neutronsblog.hashnode.dev/demystifying-computer-networking)
- - 💫 [Introduction to Blockchain for Complete Beginners](https://neutronsblog.hashnode.dev/introduction-to-blockchain-for-complete-beginners)<!-- BLOGPOSTS:END -->
+ - 🚀 [The Essence of Cryptography](https://neutronsblog.hashnode.dev/the-essence-of-cryptography)<!-- BLOGPOSTS:END -->
