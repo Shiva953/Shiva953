@@ -1,94 +1,62 @@
 <link rel="stylesheet" type="text/css" href="style.css">
 
-# Hey, I'm **Shiva** 👋
-
+<div style="text-align: center;"> 
+  <img width="400" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&color=2AF7B4&width=535&lines=Hi%2C+I'm+Shiva%F0%9F%91%8B;I+like+software%2C;building+them;and+ofc+breaking+them+too.;Let's+Connect!"/>
+</div>
 
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Neutron975)
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/791137267535970324)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/shiva-seth-958114233/)
 
-<a href="https://cloud.appwrite.io/card/6450a8b2037af3f1069a">
-	<img width="350" src="https://cloud.appwrite.io/v1/cards/cloud?userId=6450a8b2037af3f1069a&new" alt="Appwrite Cloud Card" align="center" />
-</a>
-
+## About Me
 <!-- ### **Welcome to My Page!** <img src="assets/flame.gif" style="position: relative;top:2.4px;" width="12" height="22">
 ![border-seperator](assets/borderseparator.gif) -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2000&pause=1000&color=2AE8F7&center=true&vCenter=true&width=900&height=80&lines=A+Tech+and+Philosophy+Enthusiast!)](https://git.io/typing-svg)
-
-### <p style="font-size:7px;">I'm currently exploring the world of technology and open source.I like solving problems that interest me and let me dive deep into the essence of it. I am naive to the world of computer science,though optimistic about its possibilities.</p>
-
-![border-seperator](assets/borderseparator.gif)
-
-## <div align="center"><p style="text-align:center; font-size:40px; font-weight:400px">**About Me**</p></div>
-
-
-### **✨ Hobbies**
-   Listening to Podcasts,Music and writing Reviews
-
-### **💖 Interests**
-Computer Science,Philosophy,AI/ML,Blockchain,Math,Open Source
-
-
-### **📟 Projects**
-* Discord Bot
-* ChatApp
-* Portfolio Website
-
-![bd](assets/borderseparator.gif)
-
-## <div align="center"><p style="text-align:center; font-size:40px; font-weight:400px;">**Technologies**</p></div>
-
-
-### <div align="center"><p align="center"><p style="text-align : center; font-weight:200px; font-size:24px;">**Skills&Endorsements**</p></p></div>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,js,react,python,java,css,arduino,git,github,vscode,neovim,linux,gcp,tailwind,ps,ae&perline=8" />
-  </a>
+<p style="font-size:7px;">
+Being a tech enthusiast and a college student, my curiosity is sparked by the possibilities of technology and the open-source world. My current focus lies in full stack web development, where I'm more inclined towards backend development and cybersecurity side. Alongside my technical pursuits, I find pleasure in expressing myself creatively through writing blogs and practicing design. Engaging with podcasts and books is another cherished hobby of mine, as I love to expand my knowledge and gain valuable insights from diverse sources. My ultimate goal is to make valuable contributions to the tech community while gaining experience and seeking meaningful connections.
 </p>
+<p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
-![]()
-### <div align="center"><p align="center"><p style="text-align : center; font-weight:200px; font-size:22px;">**Currently Learning**</p></p></div>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=unity,nodejs,matlab,docker,bootstrap,wordpress" />
-  </a>
-</p>
+## Technologies
+ 
+<table>
+<tr>
+	<td><strong>Web Development</strong></td>
+	<td><strong>Design</strong></td>
+</tr>
+<tr>
+		<td><img src = "https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,bootstrap" ></td>
+		<td><img src = "https://skillicons.dev/icons?i=ps,figma&theme=dark"></td>
+</tr>
+<tr>
+	<td><strong>Cybersecurity&Cloud</strong></td>
+	<td><strong>Tools</strong></td>
+</tr>
+<tr>
+	<td><img src = "https://skillicons.dev/icons?i=bash,c,linux,docker,kubernetes,aws,azure&theme=dark"></td>
+	<td><img src = "https://skillicons.dev/icons?i=git,vscode,vim,githubactions&theme=dark"></td>
+</tr>
+</table>
+<p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
-![]()
-### <div align="center"><p align="center"><p style="text-align : center; font-weight:200px; font-size:22px;">**Planning to Learn**</p></p></div>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=svelte,vue,blender,firebase,flutter,php,mysql,django,flask,mongodb,electron,kubernetes,graphql,swift,solidity,ruby,rust,nextjs,dart,aws&perline=10" />
-  </a>
-</p>
 
-![]()
-
-![border](assets/borderseparator.gif)
-
-![]()
-
-## <div align="center"><p style="text-align:center; font-size:40px; font-weight:400px">**Github Stats**</p></div>
-
-![]()
+## Github Stats
 
 
 <!-- [![Neutron's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shiva953&theme=aura)]()
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Shiva953&theme=dark-smoky)](https://git.io/streak-stats) -->
 <p style="display:flex; align=center; justify-content:center; ">
-<img src="https://github-readme-stats.vercel.app/api?username=Shiva953&theme=aura" style="margin-right:4px;">
-<img src="https://streak-stats.demolab.com/?user=Shiva953&theme=dark-smoky">
+<img src="https://github-readme-stats.vercel.app/api?username=Shiva953&theme=midnight-purple" style="margin-right:4px;">
+<img src="https://streak-stats.demolab.com/?user=Shiva953&theme=holi-theme">
 </p>
-
-[![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Shiva953&theme=react-dark)](https://github.com/Shiva953/github-readme-activity-graph)
+<p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 <!-- - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
 
-#### :books: Recent Blog Posts
+## Latest Blogs
 <!-- BLOGPOSTS:START -->
  - 🌮 [AWS : Welcome](https://neutronsblog.hashnode.dev/aws-welcome)
  - 🌮 [System Design : A Naive Overview](https://neutronsblog.hashnode.dev/system-design-a-naive-overview)
