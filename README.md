@@ -25,7 +25,7 @@ Being a tech enthusiast and a college student, my curiosity is sparked by the po
 	<td><strong>Design</strong></td>
 </tr>
 <tr>
-		<td><img src = "https://skillicons.dev/icons?i=css,js,react,tailwind,nodejs,bootstrap,mongodb" ></td>
+		<td><img src = "https://skillicons.dev/icons?i=css,js,react,tailwind,nodejs,nextjs,mongodb" ></td>
 		<td><img src = "https://skillicons.dev/icons?i=ps,figma&theme=dark"></td>
 </tr>
 <tr>
