@@ -4,9 +4,10 @@ full stack solana dev | contributor [@superteam](https://twitter.com/superteam) 
 ## Proof of Work
 
 - full-stack
+  - [Belzin](https://belzin.vercel.app) - ai-agent integrated group chat, including P2P bets using solana blinks
   - [Liquotic](https://liquotic.vercel.app) - buy NFTs with any SPL-token
   - [Openvest](https://openvest.vercel.com) - create vested token allocations for company employees
-  - [Belzin](https://belzin.vercel.app) - ai agent integrated group chat, including P2P bets using solana blinks
+    
 
 - hackathon wins
   - [Univault](https://univault.xyz) - all-in-one squad multisig management solution using solana blinks([blinkathon squads track winner](https://x.com/thesendcoin/status/1839324398102409634))
