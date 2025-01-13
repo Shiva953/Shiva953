@@ -1,56 +1,24 @@
-<link rel="stylesheet" type="text/css" href="style.css">
-
-<div style="text-align: center;"> 
-  <img width="400" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&color=2AF7B4&width=535&lines=Hi%2C+I'm+Shiva%F0%9F%91%8B;Let's+Connect!"/>
-</div>
-
-[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Neutron975)
-[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/791137267535970324)
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/shiva-seth-958114233/)
-
 ## About Me
-<!-- ### **Welcome to My Page!** <img src="assets/flame.gif" style="position: relative;top:2.4px;" width="12" height="22">
-![border-seperator](assets/borderseparator.gif) -->
+full stack solana dev | contributor [@superteam](https://twitter.com/superteam) | [twitter](https://twitter.com/Neutron975)
 
-<p style="font-size:7px;">
-Being a tech enthusiast and a college student, my curiosity is sparked by the possibilities of technology and the open-source world. My current focus lies in full stack web development, where I'm more inclined towards backend development and cybersecurity side. Alongside my technical pursuits, I find pleasure in expressing myself creatively through writing blogs and practicing design. Engaging with podcasts and books is another cherished hobby of mine, as I love to expand my knowledge and gain valuable insights from diverse sources. My ultimate goal is to make valuable contributions to the tech community while gaining experience and seeking meaningful connections.
-</p>
-<p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
+## Proof of Work
 
-## Technologies
- 
-<table>
-<tr>
-	<td><strong>Web Development</strong></td>
-	<td><strong>Design</strong></td>
-</tr>
-<tr>
-		<td><img src = "https://skillicons.dev/icons?i=css,js,react,tailwind,nodejs,nextjs,mongodb" ></td>
-		<td><img src = "https://skillicons.dev/icons?i=ps,figma&theme=dark"></td>
-</tr>
-<tr>
-	<td><strong>Cybersecurity&Cloud</strong></td>
-	<td><strong>Tools</strong></td>
-</tr>
-<tr>
-	<td><img src = "https://skillicons.dev/icons?i=bash,c,linux,docker,kubernetes,aws,azure&theme=dark"></td>
-	<td><img src = "https://skillicons.dev/icons?i=git,vscode,vim,githubactions&theme=dark"></td>
-</tr>
-</table>
+- full-stack
+  - [Liquotic](https://liquotic.vercel.app) - buy NFTs with any SPL-token
+  - [Openvest](https://openvest.vercel.com) - create vested token allocations for company employees
+  - [Belzin](https://belzin.vercel.app) - ai agent integrated group chat, including P2P bets using solana blinks
+
+- hackathon wins
+  - [Univault](https://univault.xyz) - all-in-one squad multisig management solution using solana blinks([blinkathon squads track winner](https://x.com/thesendcoin/status/1839324398102409634))
+    
+- rust
+  - [sol-clix](https://github.com/Shiva953/sol-clix) - terminal based solana-cli wallet
+  - [belzin-betting-program](https://github.com/Shiva953/belzin-betting-program) - P2P betting contracts 
 <p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
 
 ## Github Stats
-
-
-<!-- [![Neutron's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shiva953&theme=aura)]()
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Shiva953&theme=dark-smoky)](https://git.io/streak-stats) -->
 <p style="display:flex; align=center; justify-content:center; ">
 <img src="https://github-readme-stats.vercel.app/api?username=Shiva953&theme=midnight-purple" style="margin-right:4px;">
 <img src="https://streak-stats.demolab.com/?user=Shiva953&theme=holi-theme">
 </p>
-<p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
-<!-- - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
