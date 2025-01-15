@@ -1,5 +1,5 @@
 ## About Me
-full stack solana dev | contributor [@superteam](https://twitter.com/superteam) | [twitter](https://twitter.com/Neutron975)
+full stack solana dev | member [@superteam](https://twitter.com/superteam) | [twitter](https://twitter.com/Neutron975)
 
 ## Proof of Work
 
