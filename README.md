@@ -4,9 +4,9 @@ full stack solana dev | member [@superteam](https://twitter.com/superteam) | [tw
 ## Proof of Work
 
 - full-stack
-  - [Belzin](https://belzin.vercel.app) - ai-agent integrated P2P group chat betting(got a [grant](https://github.com/user-attachments/assets/f16719c8-6017-4a42-a6da-11f8b8b445b7) from solana foundation)
+  - [Belzin](https://belzin.vercel.app) - ai-agent integrated P2P group chat betting( got a [grant](https://github.com/user-attachments/assets/f16719c8-6017-4a42-a6da-11f8b8b445b7) from solana foundation )
   - [Liquotic](https://liquotic.vercel.app) - buy NFTs with any SPL-token
-  - [Openvest](https://openvest.vercel.com) - create vested token allocations for company employees
+  - [Openvest](https://openvest.vercel.app) - create vested token allocations for company employees
     
 
 - hackathon wins
