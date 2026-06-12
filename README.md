@@ -6,6 +6,7 @@ full stack solana dev | member [@superteam](https://twitter.com/superteam) | [tw
 - full-stack
   - [Belzin](https://belzin.fun) - ai-agent integrated P2P group chat betting( got a [grant](https://github.com/user-attachments/assets/f16719c8-6017-4a42-a6da-11f8b8b445b7) from solana foundation )
   - [TraderDraft](https://traderdraft.vercel.app) - Trade Tokenized KOL tokens on solana and compete in live trading windows to earn tournament points.
+  - [BountyExchange](https://github.com/Shiva953/BountyExchange) - Trustless USDC escrow + off-chain volume oracle for KOL token trading bounties on Solana
   - [Gorclash](https://gorclash.fun) - A fun multiplayer game built on gorbagana, a solana L2.
   - [Openvest](https://openvest.vercel.app) - create vested token allocations for company employees
     
