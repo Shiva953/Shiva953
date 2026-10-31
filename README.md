@@ -4,23 +4,23 @@
     <img alt="shiva" src="assets/shiva-light.svg" width="576">
   </picture>
   <br>
-  engineer · builder · open to work
+  full-stack product engineer · open to work
   <br>
   <samp><a href="https://shiva66.xyz">shiva66.xyz</a> / <a href="https://x.com/Neutron975">x</a> / <a href="mailto:shivaset2@gmail.com">email</a> / <a href="https://shiva66.xyz/shiva_seth.pdf">resume</a></samp>
 </div>
 
 <br>
 
-full-stack engineer who takes products from 0→1. two years of freelancing for early teams, lately building ai agents and apps on solana.<br>
+i take products from 0→1. two years of freelancing for early teams, lately building ai agents and apps on solana.<br>
 <samp>rust · typescript · anchor · next.js · postgres · helius</samp>
 
 <details open>
 <summary><samp><b>$ ls work</b></samp></summary>
 
-[belzin](https://belzin.vercel.app) · p2p betting inside a group chat, run by an ai agent · [$3,000 solana foundation grant](https://github.com/user-attachments/assets/f16719c8-6017-4a42-a6da-11f8b8b445b7)<br>
-[traderdraft](https://traderdraft.vercel.app) · a fantasy-style game where top solana traders become tradable tokens<br>
-[gibbon](https://gibbon-cli.vercel.app) · terraform-style plan and apply for gibwork bounties<br>
-[univault](https://univault.xyz) · run a squads multisig from a single blink · [blinkathon winner, squads track](https://x.com/thesendcoin/status/1839324398102409634)
+<samp><b><a href="https://belzin.vercel.app">belzin</a></b></samp> · p2p betting inside a group chat, run by an ai agent · [$3,000 solana foundation grant](https://github.com/user-attachments/assets/f16719c8-6017-4a42-a6da-11f8b8b445b7)<br>
+<samp><b><a href="https://traderdraft.vercel.app">traderdraft</a></b></samp> · a fantasy-style game where top solana traders become tradable tokens<br>
+<samp><b><a href="https://gibbon-cli.vercel.app">gibbon</a></b></samp> · terraform-style plan and apply for gibwork bounties<br>
+<samp><b><a href="https://univault.xyz">univault</a></b></samp> · run a squads multisig from a single blink · [blinkathon winner, squads track](https://x.com/thesendcoin/status/1839324398102409634)
 
 </details>
 
